@@ -62,10 +62,21 @@ img {
   background-color: rgb(23, 147, 114);
 }
 
-.column {
+.column1 {
   width: 300px;
   float: left;
 }
+
+.column2 {
+  width: 300px;
+  float: left;
+}
+
+.column3 {
+  width: 300px;
+  float: left;
+}
+
 .my-class {
   background-color: orange;
   margin: 12px;
@@ -79,6 +90,7 @@ img {
   border: solid black;
   border-width: 5px;
   box-sizing: border-box;
+  margin: 5px;
 }
 
 .box2 {
