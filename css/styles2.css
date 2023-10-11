@@ -25,10 +25,21 @@ img.intro {
 }
 
 .important {
+  height: 30%;
+  width: 50%;
   color: red;
   text-align: center;
 }
 
 .unimportant {
+  height: 100%;
+  width: 100%;
   color: blue;
+  text-align: left;
+}
+
+div {
+  background-color: black;
+  width: 30vw;
+  height: 50vh;
 }
