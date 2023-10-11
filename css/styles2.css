@@ -1,6 +1,9 @@
+h1 {
+  text-align: center;
+}
 h2 {
   color: blueviolet;
-  font-size: 50%;
+  font-size: 150%;
   font-style: italic;
 }
 
@@ -15,4 +18,8 @@ p.intro {
 img.intro {
   display: flex;
   justify-content: center;
+}
+
+#line2 {
+  color: blanchedalmond;
 }
