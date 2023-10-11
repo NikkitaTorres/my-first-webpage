@@ -1,5 +1,4 @@
 h1 {
-  color: red;
   text-align: center;
 }
 
@@ -15,4 +14,36 @@ p {
 ul {
   font-size: 20px;
   line-height: 30px;
+}
+
+.intro {
+  width: 50%;
+  font-style: italic;
+}
+
+p.author {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.important {
+  color: red;
+}
+.emphasize {
+  font-weight: bold;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+/* This is an example CSS selector for a class attribute */
+.intro {
+  color: red;
+}
+
+/* This is an example CSS selector for a class attribute */
+#line2 {
+  color: red;
 }
