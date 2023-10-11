@@ -23,3 +23,12 @@ img.intro {
 #line2 {
   color: blanchedalmond;
 }
+
+.important {
+  color: red;
+  text-align: center;
+}
+
+.unimportant {
+  color: blue;
+}
